@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ageing/static/css/main.a969afa8.chunk.css",
+    "main.js": "/ageing/static/js/main.d35e2f7f.chunk.js",
+    "main.js.map": "/ageing/static/js/main.d35e2f7f.chunk.js.map",
+    "runtime-main.js": "/ageing/static/js/runtime-main.54cf332c.js",
+    "runtime-main.js.map": "/ageing/static/js/runtime-main.54cf332c.js.map",
+    "static/js/2.04d4acae.chunk.js": "/ageing/static/js/2.04d4acae.chunk.js",
+    "static/js/2.04d4acae.chunk.js.map": "/ageing/static/js/2.04d4acae.chunk.js.map",
+    "index.html": "/ageing/index.html",
+    "static/css/main.a969afa8.chunk.css.map": "/ageing/static/css/main.a969afa8.chunk.css.map",
+    "static/js/2.04d4acae.chunk.js.LICENSE.txt": "/ageing/static/js/2.04d4acae.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.54cf332c.js",
+    "static/js/2.04d4acae.chunk.js",
+    "static/css/main.a969afa8.chunk.css",
+    "static/js/main.d35e2f7f.chunk.js"
+  ]
+}
